@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="2" total="5" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-12-02T12:30:35Z" name="Default suite" finished-at="2022-12-02T12:32:02Z" duration-ms="86697">
+    <groups>
+    </groups>
+    <test started-at="2022-12-02T12:30:35Z" name="Default test" finished-at="2022-12-02T12:32:02Z" duration-ms="86697">
+      <class name="org.chaterls.ProductPurchase">
+        <test-method is-config="true" signature="start()[pri:0, instance:org.chaterls.ProductPurchase@36b4091c]" started-at="2022-12-02T12:30:35Z" name="start" finished-at="2022-12-02T12:31:17Z" duration-ms="42079" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- start -->
+        <test-method signature="login1()[pri:1, instance:org.chaterls.ProductPurchase@36b4091c]" started-at="2022-12-02T12:31:17Z" name="login1" finished-at="2022-12-02T12:31:23Z" duration-ms="6062" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login1 -->
+        <test-method signature="credentials()[pri:2, instance:org.chaterls.ProductPurchase@36b4091c]" started-at="2022-12-02T12:31:23Z" name="credentials" finished-at="2022-12-02T12:31:35Z" duration-ms="11360" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- credentials -->
+        <test-method signature="productSelecting()[pri:3, instance:org.chaterls.ProductPurchase@36b4091c]" started-at="2022-12-02T12:31:35Z" name="productSelecting" finished-at="2022-12-02T12:32:02Z" duration-ms="27135" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- productSelecting -->
+        <test-method is-config="true" signature="end()[pri:0, instance:org.chaterls.ProductPurchase@36b4091c]" started-at="2022-12-02T12:32:02Z" name="end" finished-at="2022-12-02T12:32:02Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- end -->
+      </class> <!-- org.chaterls.ProductPurchase -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
